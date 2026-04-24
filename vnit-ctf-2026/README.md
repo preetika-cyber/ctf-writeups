@@ -8,7 +8,7 @@
 
 ---
 
-![Vnit_Team-score]
+![Vnit_Team-score](Vnit_Team-score.png)
 
 ---
 
