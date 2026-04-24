@@ -8,6 +8,10 @@
 
 ---
 
+![Vnit_Team-score]
+
+---
+
 ## 📌 About
 This repository contains selected writeups from VNIT CTF 2026.
 
