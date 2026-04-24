@@ -22,6 +22,7 @@ Steganography often hides compressed archives inside images using file carving t
 1. Scan image for embedded data:
    ```bash
    binwalk heist.png
+   ```
 
 2. Extract embedded files:
   ```bash
