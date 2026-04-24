@@ -33,6 +33,8 @@ File signature corruption is a common trick in steganography challenges, where h
    
 4. Open repaired image
 
+![](breaking_bad1.png)
+
 ![](breaking_bad.png)
 
 ## 🏁 Flag
