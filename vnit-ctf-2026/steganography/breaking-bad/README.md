@@ -37,5 +37,13 @@ File signature corruption is a common trick in steganography challenges, where h
 
 ![](breaking_bad.png)
 
+---
+
 ## 🏁 Flag
 SH3LL{cook_it_like_heisenberg}
+
+---
+
+## 🧠 Key Learning
+- File headers (magic bytes) are critical
+- Small corruption can hide entire data
