@@ -37,5 +37,13 @@ The strategy was to inspect the file for any readable strings.
 
 ![](the-silent-throne.png)
 
+---
+
 ## 🏁 Flag
 SH3LL{a_song_of_ice_and_flags}
+
+---
+
+## 🧠 Key Learning
+- Flags can be hidden directly in binary data
+- strings is often enough for easy stego challenges
