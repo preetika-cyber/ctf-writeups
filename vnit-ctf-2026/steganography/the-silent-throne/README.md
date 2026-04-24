@@ -12,7 +12,7 @@ The throne was never empty, it was silent. Something was hidden in the sound lef
 
 ## 🎯 Approach
 The challenge involved analyzing an audio file to identify hidden information.  
-In steganography, data is often hidden inside media files such as audio using metadata or embedded plaintext. :contentReference[oaicite:0]{index=0}  
+In steganography, data is often hidden inside media files such as audio using metadata or embedded plaintext.
 
 The strategy was to inspect the file for any readable strings.
 
