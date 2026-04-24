@@ -26,14 +26,14 @@ File signature corruption is a common trick in steganography challenges, where h
    
 2. Notice incorrect header
 
+![](breaking_bad1.png)
+
 3. Fix PNG header manually:
    ```bash
     printf '\x89\x50\x4E\x47\x0D\x0A\x1A\x0A' | dd of=breaking_bad.png bs=1 count=8 conv=notrunc
    ```
-   
-4. Open repaired image
 
-![](breaking_bad1.png)
+4. Open repaired image
 
 ![](breaking_bad.png)
 
