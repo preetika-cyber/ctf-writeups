@@ -10,6 +10,12 @@ The lights are flickering again. We recorded the low-frequency hum vibrating thr
 
 ---
 
+## 📂 Files Provided
+
+- `stranger.wav` — audio recording containing hidden data in frequency domain.
+
+---
+
 ## 🎯 Approach
 This challenge required analyzing hidden data in audio frequencies.
 
@@ -22,7 +28,7 @@ Audio steganography often hides data in spectrograms, where visual patterns appe
 1. Analyze the file and Open the audio file in:
    - Sonic Visualiser / Audacity
 
-  ![](stranger-frequencies.png)
+     ![](stranger-frequencies.png)
 
 3. Enable spectrogram view  
 
@@ -30,7 +36,7 @@ Audio steganography often hides data in spectrograms, where visual patterns appe
 
 5. Identify embedded text visually  
 
-  ![](stranger-frequencies1.png)
+     ![](stranger-frequencies1.png)
   
 ---
 
