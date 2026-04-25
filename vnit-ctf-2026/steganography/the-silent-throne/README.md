@@ -10,6 +10,12 @@ The throne was never empty, it was silent. Something was hidden in the sound lef
 
 ---
 
+## 📂 Files Provided
+
+- `audio.wav` — audio file suspected to contain hidden information.
+
+---
+
 ## 🎯 Approach
 The challenge involved analyzing an audio file to identify hidden information.  
 In steganography, data is often hidden inside media files such as audio using metadata or embedded plaintext.
