@@ -12,7 +12,7 @@
 
 ## 📂 Files Provided
 
-- `breaking_bad.png` — corrupted PNG image with an invalid file header
+- `breaking_bad.png` — corrupted PNG image with an invalid file header.
 
 ---
 
