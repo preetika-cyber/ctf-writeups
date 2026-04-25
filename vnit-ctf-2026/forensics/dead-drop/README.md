@@ -34,6 +34,7 @@ By correlating user activity, file sizes, and suspicious patterns, the goal was 
 2. Analyze key files:
   - history.txt → check for encryption-related searches
   - notes.txt → look for hints about hidden volumes
+  
   ![](dead-drop1.png)
 
 3. Identify anomaly:
