@@ -57,6 +57,7 @@ The strategy followed a **“follow the breadcrumbs”** approach:
    - voicemail.wav
    - directory.csv
    - transcript.txt
+   
    ![](echoes.png)
 
 3. Extract hidden data (Steganography)
@@ -74,6 +75,7 @@ The strategy followed a **“follow the breadcrumbs”** approach:
    Output revealed:
    - Reference to DTMF tones
    - Mention of directory lookup
+   
    ![](echoes2.png)
 
 
