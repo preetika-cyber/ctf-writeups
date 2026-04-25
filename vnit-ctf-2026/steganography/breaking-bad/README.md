@@ -26,7 +26,7 @@ File signature corruption is a common trick in steganography challenges, where h
    
 2. Notice incorrect header
 
-![](breaking_bad1.png)
+   ![](breaking_bad1.png)
 
 3. Fix PNG header manually:
    ```bash
