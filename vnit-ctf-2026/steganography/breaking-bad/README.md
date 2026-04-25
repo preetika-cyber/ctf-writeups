@@ -10,6 +10,12 @@
 
 ---
 
+## 📂 Files Provided
+
+- `breaking_bad.png` — corrupted PNG image with an invalid file header
+
+---
+
 ## 🎯 Approach
 The challenge involved repairing a corrupted image file.
 
