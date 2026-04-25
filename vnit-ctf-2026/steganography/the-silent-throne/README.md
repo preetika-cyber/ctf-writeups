@@ -41,7 +41,7 @@ The strategy was to inspect the file for any readable strings.
    strings audio.wav | grep SH3LL{.*}
    ```
 
-![](the-silent-throne.png)
+   ![](the-silent-throne.png)
 
 ---
 
