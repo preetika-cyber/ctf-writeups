@@ -10,6 +10,12 @@ The Professor’s plan is simple: Walk into the bank, walk past the guards, and 
 
 ---
 
+## 📂 Files Provided
+
+- `heist.png` — image file suspected to contain embedded data.
+
+---
+
 ## 🎯 Approach
 This challenge involved detecting and extracting embedded files from an image.
 
