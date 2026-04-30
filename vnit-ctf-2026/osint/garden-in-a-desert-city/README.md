@@ -11,7 +11,7 @@ I used to play in this garden a lot as a child. Can you find it for me?
 
 ## 📂 Files Provided  
 
-![](garden.png)
+![](garden.jpg)
 
 
 ---
