@@ -1,37 +1,37 @@
-# Trust Issues
+# Trust Me, I’m a Doctor
 
 **Category:** Web  
-**Points:** 300  
+**Points:** 400  
 
 ---
 
 ## 🧩 Description  
-The system believes in trust. You just need to understand how that belief is enforced… or broken. Give me a minute, I dropped my key somewhere....Meanwhile, see if you can figure out how this works.
+The clinic follows a strict policy: no unnecessary checks, no delays, no second opinions. Every injection goes straight through.
 
 ---
 
 ## 🎯 Target  
-- **URL:** https://chall3.shellpwn.tech  
+- **URL:** https://chall4.shellpwn.tech  
 
 ---
 
 ## 🎯 Approach  
 
-This challenge is based on **manipulating client-side trust mechanisms** such as cookies or request parameters.
+This challenge involves **NoSQL injection** to bypass authentication.
 
 ---
 
 ## 🛠️ Steps  
 
-1. Intercept requests using **Burp Suite**  
-2. Analyze cookies and parameters  
-3. Identify trust-based values (e.g., role, user type)  
-4. Modify these values in the request  
+1. Identify the login functionality  
+2. Intercept the request using **Burp Suite**  
+3. Analyze how input is processed  
+4. Modify the request to bypass validation logic  
 5. Forward the request  
 
    ![](trust-me-i-am-doctor.jpeg)
 
-6. Observe elevated access and retrieve the flag  
+6. Gain access and retrieve the flag  
 
 ---
 
@@ -42,7 +42,5 @@ SH3LL{n0sql_1nj3ct10n_byp4ss_f0r_th3_w1n}
 
 ## 🧠 Key Learning  
 
-- Never trust client-side data  
-- Parameter tampering is a common vulnerability  
-
-
+- NoSQL databases are vulnerable to injection if not sanitized  
+- Authentication bypass is a critical issue  
