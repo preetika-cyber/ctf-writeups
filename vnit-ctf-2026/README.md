@@ -27,6 +27,6 @@ This repository contains selected writeups from VNIT CTF 2026.
 
 ---
 
-## ## ⚠️ Note
+## ⚠️ Note
 
 Some challenges do not include flags due to incomplete records. The focus is on methodology and approach.
